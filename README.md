@@ -1,3 +1,6 @@
+![alt text] (https://github.com/zakchow/Red-vs-Blue/blob/main/Diagram..jpg)
+
+
 # Red-vs-Blue
 Project
 As the Red Team, we will attack a vulnerable VM within your environment, ultimately gaining root access to the machine. As Blue Team, we will use Kibana to review logs taken during their Day 1 engagement. we'll use the logs to extract hard data and visualizations for their report.
