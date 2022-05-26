@@ -1,4 +1,4 @@
-![alt text] (https://github.com/zakchow/Red-vs-Blue/blob/main/Diagram..jpg)
+![alt text](https://github.com/zakchow/Red-vs-Blue/blob/main/Diagram..jpg)
 
 
 # Red-vs-Blue
