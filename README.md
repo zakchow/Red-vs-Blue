@@ -75,7 +75,7 @@ This project covers portions of the following domains of Cybersecurity
   Incident Analysis with Kibana
   Kibana to analyze logs taken during the Red Team attack. As we analyze, you will use the data to develop ideas for new alerts that can improve your monitoring.
  
-Analyzing the logs is still valuable. will teach us
+Analyzing the logs is still valuable will show us:
   
 What your attack looks like from a defender's perspective.
 
